@@ -44,4 +44,4 @@ Tras procesar un catálogo bibliográfico legacy:
 1.  Asegurarse de tener el archivo `bibliotecas.json` (generado por el [Data Normalizer](https://github.com/tu-usuario/data-normalizer-etl)) en la misma carpeta.
 2.  Ejecutar el modelador:
     python 03_graph_builder.py
-3.  El resultado se encontrará en `grafo_semantico.json`.
+3.  El resultado se encontrará en `grafo_biblioteca.json`.
